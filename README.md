@@ -44,7 +44,7 @@ Number-Guessing-Game/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game-java.git
+git clone https://github.com/shreysomu/number-guessing-game-java.git
 ```
 
 ### Navigate to the Project
